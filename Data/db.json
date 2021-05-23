@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Ronard",
+            "lastName": "Eusebio",
+            "email": "ronard3@gmail.com" 
+        },
+        {
+            "id": 2,
+            "firstName": "Mateo",
+            "lastName": "Jaider",
+            "email": "jaider1213@gmail.com" 
+        },
+        {
+            "id": 3,
+            "firstName": "Emilio",
+            "lastName": "Jeus",
+            "email": "emiliojj@gmail.com" 
+        },
+        {
+            "id": 4,
+            "firstName": "Diego",
+            "lastName": "Herrera",
+            "email": "herrera10go@gmail.com" 
+        },
+        {
+            "id": 5,
+            "firstName": "Moussa",
+            "lastName": "Fode",
+            "email": "fode_mou@gmail.com" 
+        },
+        {
+            "id": 6,
+            "firstName": "Antonio",
+            "lastName": "Perez",
+            "email": "perezan@gmail.com" 
+        }
+    ]
+}
