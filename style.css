@@ -1,0 +1,17 @@
+body {
+    font-size: 40px;
+}
+.main {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.main > p {
+    width: 100px;
+    text-align: center;
+}
+button {
+    width: 50px;
+}
